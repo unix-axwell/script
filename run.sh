@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: Radu A. Bogdan - ASIR
+#Author: Radu - ASIR
 
 #Update package list
 sudo apt update
