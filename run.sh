@@ -1,0 +1,14 @@
+#!/bin/bash
+#Author: Radu A. Bogdan - ASIR
+
+#Update package list
+sudo apt update
+
+#Package installs
+sudo apt install -y tldr mc ranger ncdu
+
+#TLDR resources update
+tldr --update
+
+#Print message
+echo "Process Complete!"
